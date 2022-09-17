@@ -1,6 +1,6 @@
 package codewars;
 
-# https://www.codewars.com/kata/54dc6f5a224c26032800005c
+// https://www.codewars.com/kata/54dc6f5a224c26032800005c
 
 public class HelpTheBookseller {
 
